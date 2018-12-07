@@ -1,6 +1,6 @@
 # Machine Learning Study
 
-place : mlconference(https://mlconference.ai/)
+place : [mlconference](https://mlconference.ai/)
 
 To start the machine learning tutorial lauch Jupyter Notebook and open the release/1/index.ipnb file with the following command:
 ```ipython notebook release/1/index.ipnb```
@@ -32,14 +32,7 @@ without the need for downloading the code or building the container.
 
 ## STUDY
 
-### Imports
-
-In Python you need to import tools to be able to use them. In this workshop we will mainly use the numpy toolbox and you can import it like this:
-
-``` python
-import numpy as np
-```
-
+[Wiki](https://github.com/ohdoking/machine-learning-101/wiki)
 
 ## reference 
 
